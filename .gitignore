@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+env/
+ENV/
+.venv
+
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/
+
+# OS metadata
+.DS_Store
+Thumbs.db
