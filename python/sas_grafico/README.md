@@ -101,5 +101,5 @@ Acesse a aplicação no navegador em: `http://localhost:8501`
 
 Desenvolvido por **Luann Santos**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luannsantosprogrammer)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/luann-rodrigo-de-souza-santos-492298317/))
+
